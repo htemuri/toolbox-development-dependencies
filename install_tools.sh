@@ -11,4 +11,4 @@ sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.m
 dnf check-update
 dnf upgrade
 
-sudo dnf install code clang
+sudo dnf install code clang strace
